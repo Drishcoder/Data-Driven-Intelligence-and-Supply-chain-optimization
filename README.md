@@ -41,7 +41,7 @@ Data-Driven-Intelligence-and-Supply-chain-optimization/
 ├── online_retail.csv          # Dataset (customer transactions)
 ├── offproject.ipynb           # Jupyter notebook with analysis
 ├── streamlit_app.py           # Interactive dashboard application
-└── [Additional analysis files]
+├── requirements.txt           # Requirements needed to install
 ```
 
 ---
@@ -56,7 +56,7 @@ Data-Driven-Intelligence-and-Supply-chain-optimization/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Data-Driven-Intelligence-and-Supply-chain-optimization.git
+   git clone https://github.com/Drishcoder/Data-Driven-Intelligence-and-Supply-chain-optimization.git
    cd Data-Driven-Intelligence-and-Supply-chain-optimization
    ```
 
@@ -175,24 +175,6 @@ Open `offproject.ipynb` in Jupyter Notebook or Jupyter Lab to explore the detail
 - Customer Acquisition Cost (CAC)
 - Repeat Purchase Rate
 - Segment Size and Distribution
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 📧 Contact & Support
-
-For questions or suggestions, please reach out via GitHub Issues or contact the maintainer directly.
 
 ---
 
